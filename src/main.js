@@ -1,5 +1,5 @@
 'use strict'
-if (window.location.pathname==='/personal-space/'){
+if (window.location.pathname==='/shuoshuo/'){
     // 文件原本内容
 //emoji init
 const atEmojiQQ = {
